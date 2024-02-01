@@ -1,0 +1,22 @@
+.search-model {
+  background-color: var(--surface);
+}
+
+.heading {
+  letter-spacing: 0.5px;
+  font-weight: var(--weight-bold);
+  color: var(--white);
+  font-size: var(--fs-heading);
+  line-height: 1;
+}
+
+.label {
+  font-size: 2rem;
+  color: var(--primary-variant);
+  font-weight: var(--weight-bold);
+}
+
+.movie-list {
+  padding-block-start: 16px;
+}
+
