@@ -1,6 +1,6 @@
 // exporting keys and value
 
-const api_key = "5abed1d77ecac13dcfddc58836b0c088";
+const api_key = "8ceb2e34e3e03cd15599a037bf0d2a14";
 const imageBaseURL = "https://image.tmdb.org/t/p/";
 
 const languageObject = { hi: "Hindi", en: "English", bn: "Bengali" };
